@@ -1,4 +1,0 @@
-User-agent: *
-Disallow:
-
-Sitemap: https://jayaramakarthikeya.github.io/al-folio/sitemap.xml
