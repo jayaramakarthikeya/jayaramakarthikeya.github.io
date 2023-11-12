@@ -27,7 +27,7 @@ layout: default
               path=profile_image_path
               class=profile_image_class
               alt=page.profile.image
-              cache_bust=true -%}
+              cache_bust=true-%}
             {% endif -%}
             {%- if page.profile.more_info %}
             <div class="more-info">
@@ -37,27 +37,17 @@ layout: default
           </div>
           {%- endif %}
 
+          <br/>
+
           <div class="clearfix">
             {{ content }}
           </div>
 
           <!-- News -->
-          {% if page.news and site.announcements.enabled -%}
+          <!--{% if page.news and site.announcements.enabled -%}
             <h2><a href="{{ '/news/' | relative_url }}" style="color: inherit;">news</a></h2>
             {%- include news.html limit=true %}
-          {%- endif %}
-
-          <!-- Latest posts -->
-          {% if page.latest_posts -%}
-            <h2><a href="{{ '/blog/' | relative_url }}" style="color: inherit;">latest posts</a></h2>
-            {%- include latest_posts.html %}
-          {%- endif %}
-
-          <!-- Selected papers -->
-          {% if page.selected_papers -%}
-            <h2><a href="{{ '/publications/' | relative_url }}" style="color: inherit;">selected publications</a></h2>
-            {%- include selected_papers.html %}
-          {%- endif %}
+          {%- endif %}-->
 
           <!-- Social -->
           {%- if page.social %}

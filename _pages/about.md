@@ -2,16 +2,12 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: University of Pennsylvania, Philadelphia, Pennsylvania, USA.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: me.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
@@ -19,8 +15,14 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hello! Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hey, thanks for stopping by! 👋
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am a Graduate Student at University of Pennsylvania in the Electrical and Systems Department advised by [Dr. Victor M. Preciado](https://sites.google.com/site/victormpreciado/). 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I'm currently focusing on deep learning at scale, designing algorithms to utilize multiple compute nodes and neural accelerators at training and inference time. I have interest in robot learning mainly on designing estimation and control. 
+
+Previously I worked in Indian Institute of Science incubated startup, started by [Dr. Humanshu Tyagi](https://ece.iisc.ac.in/~htyagi/) (Asscoiate Professor, ECE Department @ Indian Institute of Science). I was involved in building robust pipeline connecting network simulators with Open- RAN's near Real Time RAN Intelligent Controller. 
+
+Simultaneously, I was guided by [Dr. Shikha Tripathi](https://staff.pes.edu/nm1046/) (Chairperson, ECE Department @ PES University) on developing Koopman based techniques and deep neural networks to predict the nonlinear dynamics of the all-terrain autonomous robot. 
+
+Before I joined UPenn, I graduated with B.Tech in Electronics and Communication specializing in Signal Processing and Control Systems. Currently I'm Teaching Assistant for the Foundations of Data Science (ESE 3050) with my roles such as solving students doubts, helding office hours and grading programming projects. To view my projects you can visit [projects](/projects/).

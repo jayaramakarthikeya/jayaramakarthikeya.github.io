@@ -1,12 +1,14 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - jayaramakarthikeya
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - jayaramakarthikeya/Jackal_MPC
+  - jayaramakarthikeya/cloud_cover
+  - jayaramakarthikeya/micro_bot
+  - jayaramakarthikeya/VideoAnalysis
+  - jayaramakarthikeya/land-cover
+  - jayaramakarthikeya/blog-app
+  - jayaramakarthikeya/iPlant
+  - jayaramakarthikeya/kalman_filter
+  - jayaramakarthikeya/unscented_kalman_filter
+  - jayaramakarthikeya/PID-control

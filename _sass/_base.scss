@@ -349,6 +349,9 @@ blockquote {
 // Social (bottom)
 
 .social {
+  position: fixed;
+  bottom: 50px;
+  left: 45%;
   text-align: center;
 
   .contact-icons {
@@ -1057,4 +1060,8 @@ nav[data-toggle="toc"] {
     margin-bottom: 0;
     padding-top: 0.5rem;
   }
+}
+
+.clearfix {
+  width: 800px;
 }
