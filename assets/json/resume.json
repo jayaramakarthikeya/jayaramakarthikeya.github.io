@@ -26,8 +26,8 @@
     {
       "institution": "University of Pennsylvania",
       "url": "https://www.upenn.edu/",
-      "area": "Electrical and Systems Engineering",
-      "studyType": "Master's of Science in Engineering",
+      "area": "Electrical and Systems Engineering, Specialization in Data Science",
+      "studyType": "Master's of Science",
       "startDate": "Aug, 2023",
       "endDate": "May, 2025",
       "score": "",
@@ -40,7 +40,7 @@
     {
       "institution": "PES University",
       "url": "https://www.pes.edu/",
-      "area": "Electrical and Communication Engineering",
+      "area": "Electrical and Communication Engineering, Specialization in Signal Processing and Control Systems",
       "studyType": "Bachelor's of Technology",
       "startDate": "Aug, 2019",
       "endDate": "May, 2023",
@@ -65,7 +65,7 @@
         "TA for ESE 3050 - Foundations of Data Science.",
         "Instructor: Victor M. Preciado",
         "Instructor website: sites.google.com/site/victormpreciado",
-        "Helding office hours, solving student doubts and grading programming projects."
+        "Holding office hours, solving student doubts and grading programming projects."
       ]
     },
     {
@@ -122,7 +122,7 @@
     {
       "name":"Frameworks",
       "keywords": [
-        "PyTorch, SciKit-Learn, Pandas, NumPy, Matplotlib, Seaborn, ROS, OpenCV, Django, React.js"
+        "PyTorch, SciKit-Learn, Pandas, NumPy, Matplotlib, Seaborn, ROS, OpenCV, Django, React.js, MongoDB, PostgreSQL"
       ]
     },
     {
